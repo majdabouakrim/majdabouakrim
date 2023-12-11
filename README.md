@@ -13,7 +13,6 @@
 <div align="center">
 
 ### Glad that you are here 
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=${majdabouakrim}.${Ayagoumi}&left_color=black&right_color=red)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 <br/>
 ### I am a <b>Back-End Developer 🕸️</b>. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.
 <br/>
